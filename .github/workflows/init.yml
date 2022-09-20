@@ -18,4 +18,4 @@ jobs:
           gh issue create -t "🔍 Retro Day one: What can be improved?" -b "What can be improved? What was missing? Any additional comments? Comment below 👇"
           gh issue create -t "❤️ What was the best feature you learned yesterday?" -b "What was the GitHub Actions feature you liked best that you have learned about yesterday the first time?
 
-If you want add your hobby to share it with the group. Comment below 👇"
+#If you want add your hobby to share it with the group. Comment below 👇"
